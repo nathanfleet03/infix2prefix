@@ -1,2 +1,5 @@
 # infix2prefix
-infix2prefix from CS2 at Kent State University
+C++ infix2prefix from CS2  
+
+Nathan Fleet  
+Kent State University
